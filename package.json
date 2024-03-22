@@ -1,0 +1,20 @@
+{
+  "name": "possimusreiciendis",
+  "description": "cross platform react ui framework",
+  "version": "1.0.0",
+  "files": [
+    "packages"
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "pnpm": "^4.14.2"
+  },
+  "author": "AniyahFerry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonardAbbott/possimusreiciendis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeonardAbbott/possimusreiciendis.git/issues"
+  }
+}
